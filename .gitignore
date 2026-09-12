@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# CMake and compiler output
+/build/
+/build-*/
+/github-release/
+/cmake-build-*/
+out/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.log
+
+# .NET test output
+tests/**/bin/
+tests/**/obj/
